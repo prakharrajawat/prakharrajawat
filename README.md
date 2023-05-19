@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Prakhar Rajawat</h1>
-<h3 align="center">I'm a Tech Enthusiast from India</h3>
+<h3 align="center">A guy passionate about Tech fromIndia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharrajawat&label=Profile%20views&color=0e75b6&style=flat" alt="prakharrajawat" /> </p>
+
 <p align="left"> <a href="https://twitter.com/prakhartwts" target="blank"><img src="https://img.shields.io/twitter/follow/prakhartwts?logo=twitter&style=for-the-badge" alt="prakhartwts" /></a> </p>
 
-- 🌱 I’m currently learning **Web development and Data Structures**
-
-- 🤝 I’m looking for help with **Web development**
+- 🌱 I’m currently learning **Web dev + Dsa**
 
 - 💬 Ask me about **C,Computer Networking.**
 
 - 📫 How to reach me **prakharrajawat.dev@gmail.com**
-
-- ⚡ Fun fact **I love to code👨🏻‍💻.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharrajawat&show_icons=true&locale=en" alt="prakharrajawat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakharrajawat&" alt="prakharrajawat" /></p>
+
 
